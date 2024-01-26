@@ -1,0 +1,9 @@
+body {
+    margin: 0;
+}
+
+div.inputs {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+}
